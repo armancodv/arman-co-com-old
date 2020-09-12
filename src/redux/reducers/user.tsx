@@ -3,9 +3,9 @@ import { Action } from "redux";
 
 const initialState: UserState = {
     user: {
-        firstName: "a",
-        lastName: "",
-        title: ""
+        firstName: "Arman",
+        lastName: "Kolahan",
+        title: "Senior Software Engineer"
     }
 }
 
