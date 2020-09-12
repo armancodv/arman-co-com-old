@@ -1,5 +1,7 @@
 import {UserState} from "./UserState";
+import {GeneralState} from "./GeneralState";
 
 export interface State {
-    user: UserState
+    user: UserState,
+    general: GeneralState
 }
